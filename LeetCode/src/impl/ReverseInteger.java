@@ -42,5 +42,6 @@ public class ReverseInteger {
 			// TODO Auto-generated catch block
 			System.out.println(0);
 		}
+		scan.close();
 	}
 }
