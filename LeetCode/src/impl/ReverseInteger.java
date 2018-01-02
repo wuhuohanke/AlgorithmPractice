@@ -22,7 +22,7 @@ public class ReverseInteger {
 					tmp += input.substring(i - 1, i);
 				}
 			}else{
-				for(int i = len; i > 1; i--){
+				for(int i = len; i > 0; i--){
 					tmp += input.substring(i - 1, i);
 				}
 			}
